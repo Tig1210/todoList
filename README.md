@@ -1,5 +1,4 @@
 # TodoList
-## link:  https://tig1210.github.io/RockandPaper/
 ## Простое приложение Заметки
 ### Использовались следующие технологии:
 - React
